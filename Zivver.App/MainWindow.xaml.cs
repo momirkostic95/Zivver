@@ -92,17 +92,21 @@ namespace Zivver.App
     public class DisplayProperIdConverter : IMultiValueConverter
     {
         public object Convert(object[] values, Type targetType, object parameter, CultureInfo culture)
-        {
-            if (values.Length == 2)
-            {
-                bool isShowingId = (bool)values[0];
-                var post = values[1] as PostDTO;
+		{
+			var info = values.ToPostToupleConvertValue();
+			if (!info.HasValue)
+				return DependencyProperty.UnsetValue;
 
-                // Return Id or UserId based on IsShowingId flag
-                return isShowingId ? post?.DisplayId() : post?.DisplayUserId();
-            }
-            return null;
-        }
+
+			var (isShowingId, post) = info.GetValueOrDefault();
+
+			if(post is null)
+				return DependencyProperty.UnsetValue;
+
+			return isShowingId
+				? post.DisplayId()
+				: post.DisplayUserId();
+		}
 
         public object[] ConvertBack(object value, Type[] targetTypes, object parameter, CultureInfo culture)
         {
