@@ -1,0 +1,11 @@
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\bin\Debug\net8.0-windows\Zivver.Repository.deps.json
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\bin\Debug\net8.0-windows\Zivver.Repository.dll
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\bin\Debug\net8.0-windows\Zivver.Repository.pdb
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\Zivver.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\Zivver.Repository.AssemblyInfoInputs.cache
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\Zivver.Repository.AssemblyInfo.cs
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\Zivver.Repository.csproj.CoreCompileInputs.cache
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\Zivver.Repository.dll
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\refint\Zivver.Repository.dll
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\Zivver.Repository.pdb
+C:\Users\m.kostic\source\repos\Zivver\Zivver.Repository\obj\Debug\net8.0-windows\ref\Zivver.Repository.dll
