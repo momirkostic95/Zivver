@@ -1,0 +1,47 @@
+# User-specific files
+.idea/
+.vs/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET build output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vs/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# WPF specific
+*.userosscache
+*.user/
