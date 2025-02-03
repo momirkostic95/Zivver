@@ -1,4 +1,4 @@
-# Zivver - Posts
+# Posts
 
 This is a simple WPF application built with **.NET 8**. This is application displays list of posts.
 
