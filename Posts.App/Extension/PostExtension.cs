@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Zivver.App.DTO;
-using Zivver.Repository.Model;
+using Posts.App.DTO;
+using Posts.Repository.Model;
 
-namespace Zivver.App.Extension;
+namespace Posts.App.Extension;
 
 public static class PostExtension
 {

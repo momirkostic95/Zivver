@@ -1,9 +1,9 @@
 ﻿using System.Net.Http;
 using System.Text.Json;
-using Zivver.Repository.Interface;
-using Zivver.Repository.Model;
+using Posts.Repository.Interface;
+using Posts.Repository.Model;
 
-namespace Zivver.Repository.Repository;
+namespace Posts.Repository.Repository;
 
 public class PostRepository : IPostRepository
 {

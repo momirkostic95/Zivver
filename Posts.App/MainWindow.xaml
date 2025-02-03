@@ -1,11 +1,11 @@
-﻿<Window x:Class="Zivver.App.MainWindow"
+﻿<Window x:Class="Posts.App.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Zivver.App"
+        xmlns:local="clr-namespace:Posts.App"
         mc:Ignorable="d"
-        Title="Zivver: Posts" WindowState="Maximized">
+        Title="Posts" WindowState="Maximized">
     
         <Window.Resources>
         <local:DisplayProperIdConverter x:Key="DisplayProperIdConverter"/>

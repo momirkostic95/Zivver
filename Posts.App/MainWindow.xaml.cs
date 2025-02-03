@@ -3,12 +3,12 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 using System.Windows.Input;
-using Zivver.App.DTO;
-using Zivver.App.Extension;
-using Zivver.Repository.Model;
-using Zivver.Service.Interface;
+using Posts.App.DTO;
+using Posts.App.Extension;
+using Posts.Repository.Model;
+using Posts.Service.Interface;
 
-namespace Zivver.App
+namespace Posts.App
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

@@ -1,4 +1,4 @@
-﻿namespace Zivver.Repository.Model;
+﻿namespace Posts.Repository.Model;
 
 public class Post
 {

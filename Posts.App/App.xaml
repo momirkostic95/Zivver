@@ -1,7 +1,7 @@
-﻿<Application x:Class="Zivver.App.App"
+﻿<Application x:Class="Posts.App.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Zivver.App"
+             xmlns:local="clr-namespace:Posts.App"
              >
     <Application.Resources>
          

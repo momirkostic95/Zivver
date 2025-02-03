@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Zivver.Repository\Zivver.Repository.csproj" />
+    <ProjectReference Include="..\Posts.Repository\Posts.Repository.csproj" />
   </ItemGroup>
 
   <ItemGroup>

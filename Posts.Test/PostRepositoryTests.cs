@@ -1,8 +1,8 @@
 ﻿using Moq;
-using Zivver.Repository.Interface;
-using Zivver.Repository.Model;
+using Posts.Repository.Interface;
+using Posts.Repository.Model;
 
-namespace Zivver.Test;
+namespace Posts.Test;
 
 public class PostRepositoryTests
 {

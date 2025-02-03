@@ -1,8 +1,8 @@
-﻿using Zivver.Repository.Interface;
-using Zivver.Repository.Model;
-using Zivver.Service.Interface;
+﻿using Posts.Repository.Interface;
+using Posts.Repository.Model;
+using Posts.Service.Interface;
 
-namespace Zivver.Service.Service;
+namespace Posts.Service.Service;
 
 public class PostService : IPostService
 {

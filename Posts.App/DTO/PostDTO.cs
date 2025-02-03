@@ -1,4 +1,4 @@
-﻿namespace Zivver.App.DTO;
+﻿namespace Posts.App.DTO;
 
 public class PostDTO
 {

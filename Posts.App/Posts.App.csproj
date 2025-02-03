@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Zivver.Service\Zivver.Service.csproj" />
+    <ProjectReference Include="..\Posts.Service\Posts.Service.csproj" />
   </ItemGroup>
 
 </Project>

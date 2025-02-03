@@ -3,13 +3,13 @@ using System.Data;
 using System.Windows;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Zivver.Repository.Interface;
-using Zivver.Repository.Model;
-using Zivver.Repository.Repository;
-using Zivver.Service.Interface;
-using Zivver.Service.Service;
+using Posts.Repository.Interface;
+using Posts.Repository.Model;
+using Posts.Repository.Repository;
+using Posts.Service.Interface;
+using Posts.Service.Service;
 
-namespace Zivver.App
+namespace Posts.App
 {
     /// <summary>
     /// Interaction logic for App.xaml
